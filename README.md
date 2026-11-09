@@ -53,5 +53,3 @@ Running `make install` automatically handles two steps:
 2. Copies `shorcutmaker.desktop` to **`~/.local/share/applications/`** so the application instantly appears and can be launched from your favorite app launcher (`rofi`, `wofi`, `fuzzel`, `xfce4-appfinder`, etc.).
 
 > 💡 **Recommended**: Ensure `~/.local/bin` is in your `$PATH` so you can launch the binary seamlessly from anywhere!
-# shortcutmaker
-# shortcutmaker
