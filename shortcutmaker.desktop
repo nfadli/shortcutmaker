@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=shortcutmaker
+Comment=Utility ringkas untuk membuat file .desktop
+Exec=bash -c "$HOME/.local/bin/shortcutmaker"
+Icon=applications-other
+Terminal=false
+Categories=Utility;
