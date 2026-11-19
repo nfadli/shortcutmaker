@@ -1,8 +1,9 @@
 ## Ai generated Aplications
-#instalation no root instal on .local/bin and .local/share/applicatons
+*instal on .local/bin and .local/share/applicatons
 #dependecys gtk3-devel
 ```bash
-make make install 
+make
+make install 
 ```
 | shorcutmaker Tab | Manage Shortcuts Tab |
 | :---: | :---: |
