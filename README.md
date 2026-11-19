@@ -1,5 +1,5 @@
 ## Ai generated Aplications
-* instal on .local/bin and .local/share/applicatons
+## instal on .local/bin and .local/share/applicatons
 #dependecys gtk3-devel
 ```bash
 make
