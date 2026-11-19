@@ -1,4 +1,5 @@
 ## Ai generated Aplications
+# This app is for create shortcut and automatic added into source app launcher
 ## instal on .local/bin and .local/share/applicatons
 
 ```bash
